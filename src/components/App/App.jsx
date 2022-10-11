@@ -1,9 +1,9 @@
 import { GlobalStyle } from "./GlobalStyle";
 import { ToastContainer } from 'react-toastify';
-import Cast from "./pages/Cast/Cast";
-import Home from "./pages/Home/Home";
-import MovieDetails from "./pages/MovieDetails/MovieDetails";
-import Movies from "./pages/Movies/Movies";
+import Cast from "pages/Cast/Cast";
+import Home from "pages/Home/Home";
+import MovieDetails from "pages/MovieDetails/MovieDetails";
+import Movies from "pages/Movies/Movies";
 import Reviews from "pages/Reviews/Reviews";
 import { Routes, Route } from "react-router-dom";
 import Layout from "components/Layout/Layout";
