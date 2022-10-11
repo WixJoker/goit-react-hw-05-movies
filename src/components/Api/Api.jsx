@@ -2,7 +2,7 @@ import axios from "axios";
 import PropTypes from 'prop-types';
 
 
-const Key = "api_key=8d439eb5ac7a153643a933bcb130103b";
+const Key = "api_key=4afdcbb23237328fa1939ff781643f4b";
 const URl = "https://api.themoviedb.org/3";
 
 
