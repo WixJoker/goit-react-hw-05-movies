@@ -6,7 +6,7 @@ import MovieDetails from "./pages/MovieDetails/MovieDetails";
 import Movies from "./pages/Movies/Movies";
 import Reviews from "pages/Reviews/Reviews";
 import { Routes, Route } from "react-router-dom";
-import Layout from "./components/Layout/Layout";
+import Layout from "components/Layout/Layout";
 import NotFoundPage from "pages/NotFoundPage/NotFoundPage";
 
 
